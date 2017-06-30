@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Multi-Agent Project Scheduling Problem - An exact approach</description>
+	<configs>
+		<config category="opl" default="true" name="Configuration1">
+			<ref name="MAPSP.mod" type="model">
+			</ref>
+			<ref name="MAPSP.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
